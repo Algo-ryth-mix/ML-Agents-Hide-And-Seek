@@ -1,0 +1,65 @@
+{
+    "Seeker": {
+        "checkpoints": [
+            {
+                "steps": 3999982,
+                "file_path": "results\\ppo\\Seeker\\Seeker-3999982.onnx",
+                "reward": 58.064516129032256,
+                "creation_time": 1623346257.7537255,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seeker\\Seeker-3999982.pt"
+                ]
+            },
+            {
+                "steps": 4499941,
+                "file_path": "results\\ppo\\Seeker\\Seeker-4499941.onnx",
+                "reward": 15.789473684210526,
+                "creation_time": 1623346888.0373263,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seeker\\Seeker-4499941.pt"
+                ]
+            },
+            {
+                "steps": 4999994,
+                "file_path": "results\\ppo\\Seeker\\Seeker-4999994.onnx",
+                "reward": 27.027027027027028,
+                "creation_time": 1623347517.6129193,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seeker\\Seeker-4999994.pt"
+                ]
+            },
+            {
+                "steps": 5000058,
+                "file_path": "results\\ppo\\Seeker\\Seeker-5000058.onnx",
+                "reward": 27.027027027027028,
+                "creation_time": 1623347517.6539304,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seeker\\Seeker-5000058.pt"
+                ]
+            },
+            {
+                "steps": 5000058,
+                "file_path": "results\\ppo\\Seeker\\Seeker-5000058.onnx",
+                "reward": null,
+                "creation_time": 1623396058.2745686,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Seeker\\Seeker-5000058.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000058,
+            "file_path": "results\\ppo\\Seeker.onnx",
+            "reward": null,
+            "creation_time": 1623396058.2745686,
+            "auxillary_file_paths": [
+                "results\\ppo\\Seeker\\Seeker-5000058.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

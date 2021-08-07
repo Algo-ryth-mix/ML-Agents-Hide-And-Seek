@@ -1,0 +1,81 @@
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Crash!!!
+SymInit: Symbol-SearchPath: '.;E:\Repositories\ML-Hide-And-Seek;E:\Repositories\ML-Hide-And-Seek\build;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'rapha'
+OS-Version: 10.0.0
+E:\Repositories\ML-Hide-And-Seek\build\ML-Hide-And-Seek.exe:ML-Hide-And-Seek.exe (00007FF6D0B70000), size: 675840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.2.3.62235
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFE8AAD0000), size: 2052096 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFE8A5F0000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFE88590000), size: 2916352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+E:\Repositories\ML-Hide-And-Seek\build\UnityPlayer.dll:UnityPlayer.dll (00007FFCFF0E0000), size: 29134848 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.2.3.62235
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFE89100000), size: 1703936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFE889B0000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFE892A0000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFE88480000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFE88910000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFE882F0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFE89A40000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFE89910000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFE8A730000), size: 3493888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFE7FCA0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFE89460000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFE89560000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFE88B40000), size: 4624384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFE88270000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFE882C0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFE89050000), size: 704512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFE88FB0000), size: 634880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFE89B90000), size: 7598080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFE89390000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFE8A510000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFE08F40000), size: 1204224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.928
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFE7B530000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFE889E0000), size: 1437696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFE8A6C0000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFE86A90000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFE83990000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFE08F10000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFE86AA0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFE883F0000), size: 536576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFE85830000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+E:\Program Files (x86)\Stardock\Fences\FencesMenu64.dll:FencesMenu64.dll (00007FFE1D0C0000), size: 1388544 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.0.9.11
+C:\WINDOWS\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (00007FFE867E0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFE88110000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1023_none_91a0d43ccc8b3035\gdiplus.dll:gdiplus.dll (00007FFE79C50000), size: 1748992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFE8A540000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+E:\Repositories\ML-Hide-And-Seek\build\GameAssembly.dll:GameAssembly.dll (00007FFCFDD10000), size: 20774912 (result: 0), SymType: '-deferred-', PDB: ''
+E:\Repositories\ML-Hide-And-Seek\build\baselib.dll:baselib.dll (00007FFDC8610000), size: 516096 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFE87650000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFE895C0000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.964
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFE6E5C0000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFE880D0000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFCFF651ACA (UnityPlayer) UnityMain
+0x00007FFCFF650FB0 (UnityPlayer) UnityMain
+0x00007FFCFF650A7E (UnityPlayer) UnityMain
+0x00007FFCFF64AB3A (UnityPlayer) UnityMain
+0x00007FFCFF64A73A (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Es wurde versucht, auf eine unzulässige Adresse zuzugreifen.' (Address: 00007FFCFF5AEE70)
+0x00007FFCFF5AEE70 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Es wurde versucht, auf eine unzulässige Adresse zuzugreifen.' (Address: 00007FFCFF5B22F1)
+0x00007FFCFF5B22F1 (UnityPlayer) (function-name not available)
+0x00007FFCFF970026 (UnityPlayer) UnityMain
+0x00007FFCFF970D13 (UnityPlayer) UnityMain
+0x00007FFCFF83A06A (UnityPlayer) UnityMain
+0x00007FFCFF84BE39 (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Es wurde versucht, auf eine unzulässige Adresse zuzugreifen.' (Address: 00007FFCFF6082C9)
+0x00007FFCFF6082C9 (UnityPlayer) (function-name not available)
+0x00007FFCFF609D5B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Es wurde versucht, auf eine unzulässige Adresse zuzugreifen.' (Address: 00007FF6D0B711F2)
+0x00007FF6D0B711F2 (ML-Hide-And-Seek) (function-name not available)
+0x00007FFE8A607034 (KERNEL32) BaseThreadInitThunk
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Das angegebene Modul wurde nicht gefunden.' (Address: 00007FFE8AB22651)
+0x00007FFE8AB22651 (ntdll) (function-name not available)
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/rapha/AppData/Local/Temp/DefaultCompany/ML-Hide-And-Seek/Crashes

@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1624013454",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "E:\\Repositories\\ML-Hide-And-Seek\\venv\\Scripts\\mlagents-learn --run-id=5-gpu .\\training.yaml --force --num-envs=2 --env=.\\build\\ML-Hide-And-Seek.exe --no-graphics",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.19.5",
+        "end_time_seconds": "1624013515"
+    },
+    "total": 61.0496414,
+    "count": 1,
+    "self": 0.06755369999999772,
+    "children": {
+        "run_training.setup": {
+            "total": 0.12600259999999996,
+            "count": 1,
+            "self": 0.12600259999999996
+        },
+        "TrainerController.start_learning": {
+            "total": 60.8560851,
+            "count": 1,
+            "self": 0.00011190000000027567,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 60.8559568,
+                    "count": 1,
+                    "self": 60.8559568
+                },
+                "TrainerController._save_models": {
+                    "total": 1.639999999980546e-05,
+                    "count": 1,
+                    "self": 1.639999999980546e-05
+                }
+            }
+        }
+    }
+}

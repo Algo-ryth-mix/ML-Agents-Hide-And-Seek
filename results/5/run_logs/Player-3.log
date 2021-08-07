@@ -1,0 +1,49 @@
+Mono path[0] = 'E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Managed'
+Mono config path = 'E:/Repositories/ML-Hide-And-Seek/build/MonoBleedingEdge/etc'
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.6627
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.870 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.855300 ms
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libcoreclr.so
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libcoreclr.so
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libdl.so
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libdl.so.dll
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libdl.so
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libSystem.dylib
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libSystem.dylib
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libcoreclr.so
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libcoreclr.so
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libdl.so
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libdl.so.dll
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libdl.so
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libSystem.dylib
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data/Mono/libSystem.dylib
+failed to get 100ns ticks
+Unable to save timers to file E:/Repositories/ML-Hide-And-Seek/build/ML-Hide-And-Seek_Data\ML-Agents\Timers\SampleScene_timers.json
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 8ea4 -> priority: 1 
+  Thread -> id: 99ac -> priority: 1 
+  Thread -> id: 6470 -> priority: 1 
+  Thread -> id: 9ae8 -> priority: 1 
+  Thread -> id: 358c -> priority: 1 
+  Thread -> id: a03c -> priority: 1 
+  Thread -> id: 3fec -> priority: 1 
+  Thread -> id: 9e84 -> priority: 1 
+Waiting on threads to park on joinable thread list timed out.

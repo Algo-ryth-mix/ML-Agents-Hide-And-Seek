@@ -1,0 +1,56 @@
+{
+    "Seeker": {
+        "checkpoints": [
+            {
+                "steps": 499991,
+                "file_path": "results\\23.7-1\\Seeker\\Seeker-499991.onnx",
+                "reward": null,
+                "creation_time": 1624449922.9865339,
+                "auxillary_file_paths": [
+                    "results\\23.7-1\\Seeker\\Seeker-499991.pt"
+                ]
+            },
+            {
+                "steps": 999995,
+                "file_path": "results\\23.7-1\\Seeker\\Seeker-999995.onnx",
+                "reward": null,
+                "creation_time": 1624460875.8845525,
+                "auxillary_file_paths": [
+                    "results\\23.7-1\\Seeker\\Seeker-999995.pt"
+                ]
+            },
+            {
+                "steps": 1499997,
+                "file_path": "results\\23.7-1\\Seeker\\Seeker-1499997.onnx",
+                "reward": null,
+                "creation_time": 1624471685.1835027,
+                "auxillary_file_paths": [
+                    "results\\23.7-1\\Seeker\\Seeker-1499997.pt"
+                ]
+            },
+            {
+                "steps": 1929892,
+                "file_path": "results\\23.7-1\\Seeker\\Seeker-1929892.onnx",
+                "reward": null,
+                "creation_time": 1624480831.9505134,
+                "auxillary_file_paths": [
+                    "results\\23.7-1\\Seeker\\Seeker-1929892.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1929892,
+            "file_path": "results\\23.7-1\\Seeker.onnx",
+            "reward": null,
+            "creation_time": 1624480831.9505134,
+            "auxillary_file_paths": [
+                "results\\23.7-1\\Seeker\\Seeker-1929892.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1623396048",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "E:\\Repositories\\ML-Hide-And-Seek\\venv\\Scripts\\mlagents-learn --resume .\\training.yaml",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.20.3",
+        "end_time_seconds": "1623396058"
+    },
+    "total": 9.9391559,
+    "count": 1,
+    "self": 0.007534599999999614,
+    "children": {
+        "run_training.setup": {
+            "total": 0.10753199999999996,
+            "count": 1,
+            "self": 0.10753199999999996
+        },
+        "TrainerController.start_learning": {
+            "total": 9.824089299999999,
+            "count": 1,
+            "self": 0.00016559999999721242,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 9.066698800000001,
+                    "count": 1,
+                    "self": 9.066698800000001
+                },
+                "trainer_threads": {
+                    "total": 9.999999992515995e-07,
+                    "count": 1,
+                    "self": 9.999999992515995e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 0.7572239000000014,
+                    "count": 1,
+                    "self": 0.007814100000000934,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.7494098000000005,
+                            "count": 1,
+                            "self": 0.7494098000000005
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
